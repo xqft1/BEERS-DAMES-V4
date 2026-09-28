@@ -37,6 +37,31 @@ The idea is simple:
 
 The result is a pool with an intentionally destructive swap mechanic: trading continuously pushes small amounts of both assets into an inaccessible sink.
 
+
+## BundleCatAI $BUN
+
+BEERS was launched on **$PON**, with **BundleCatAI $BUN** as the base layer.
+
+Why $BUN?
+
+Because we simply love BUN.
+
+$BUN sits underneath the BEERS story as the launch base, while BEERS and DAMES bring the tavern, the valour and the chaos on top.
+
+```text
+$BUN
+  |
+  v
+$PON
+  |
+  v
+BEERS
+  +
+DAMES
+```
+
+**BUN is the base. BEERS is the ale. DAMES bring the valour.**
+
 ## The BEERS / DAMES Burn Hook
 
 Deployed hook:
